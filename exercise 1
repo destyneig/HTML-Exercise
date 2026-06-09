@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+    <head>
+        <title>Excercise 1</title>
+    </head>
+    <body>
+        <p>
+            <h1>TED &#40;Technology, Entertainment, Design&#41;</p></h1>
+        <p>
+            <h2>History of TED</h2>
+            Learn how a one-off conference became a viral video phenonmenon and worldwide community.
+        </p>
+        <p>
+            <h2>How TED works</h2>
+            Get answers to commonly asked questions &#8211; and a few <i>misconceptions</i> &#8211; about how TED 
+            <br>
+            operates.
+        </p>
+        <p>
+            <h2>Jobs at TED</h2>
+            We're hiring! Join our <b>global team</b> of friendly, curious, detail-oriented problem-solvers.
+        </p>
+        <p> 
+            <h4>Terms & Policies</h4>
+            TED is a platforms for sharing ideas &#8212; and we also share some basic ground rules around
+            <br>
+            privacy, civility, and the rights of creators.
+        </p>
+        <p>
+            	&#169; 
+                <abbr title="Ted Technology Services">TTS</abbr>
+        </p>
+    </body>
